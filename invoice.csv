@@ -1,0 +1,75 @@
+ORDER_REF,INVOICE_REFERENCE,INVOICE_DATE,INVOICE_STATUS,INVOICE_HOLD_REASON,INVOICE_AMOUNT,INVOICE_DESCRIPTION
+PO001-1,INV_PO001,02/28/2017,Paid,,2500,Part payment for vehicle spare parts
+PO001-2,INV_PO001,02/28/2017,Paid,,600,Part payment for vehicle spare parts
+PO001-3,INV_PO001,02/28/2017,Paid,,2000,Part payment for vehicle spare parts
+PO001-4,INV_PO001,02/28/2017,Paid,,800,Part payment for vehicle spare parts
+PO001-5,INV_PO001.1,04-04-17,Paid,,3000,Final payment for vehicle spare parts
+PO001-6,INV_PO001.1,04-04-17,Paid,,1100,Final payment for vehicle spare parts
+PO002-1,INV_PO002.1,03-01-17,Paid,,100000,Part payment for purchase of car
+PO002-1,INV_PO002.2,05-02-17,Paid,,300000,Part payment for purchase of car
+PO002-1,INV_PO002.3,08-05-17,Pending,,249000,Final payment for purchase of car
+PO003-1,INV_PO003.1,03/22/2017,Paid,,22000,Purchase of screens.
+PO003-2,INV_PO003.1,03/22/2017,Paid,,20300,Purchase of screens.
+PO003-3,INV_PO003.1,03/22/2017,Paid,,5000,Purchase of screens.
+PO003-4,INV_PO003.2,05/15/2017,Paid,,10000,Final payment for purchase of screens.
+PO004-1,INV_PO004,02/15/2017,Paid,,2000,Payment for pen
+PO004-2,INV_PO004,02/15/2017,Paid,,1200,Payment for pencil
+PO004-3,INV_PO004.1,03/20/2017,Paid,,3000,Paper reams.
+PO005-1,INV_PO005.1,05/18/2017,Pending,Damaged magazine,3000,
+PO005-2,INV_PO005.1,05/18/2017,Paid,,5000,
+PO005-3,INV_PO005.2,06/22/2017,Paid,,8000,
+PO005-4,INV_PO005.2,06/22/2017,Paid,,5000,
+PO006-1,INV_PO006.1,03/22/2017,Paid,,24300,First delivery
+PO006-1,INV_PO006.2,04/18/2017,Paid,,4300,Second delivery
+PO006-1,INV_PO006.3,05/21/2017,Paid,,25400,Third delivery
+PO006-1,INV_PO006.4,06/17/2017,Paid,,50200,Fourth delivery
+PO006-1,INV_PO006.5,07/27/2017,Paid,,70800,Fifth delivery
+PO006-1,INV_PO006.6,08/16/2017,Paid,,60000,Sixth delivery
+PO007-1,INV_PO007.1,07/30/2017,Paid,,4500,Trip for Saunders
+PO007-2,INV_PO007.1,07/30/2017,Paid,,4200,Trip for Mike
+PO007-4,INV_PO007.1,07/30/2017,Paid,,4800,Trip for Shobnee
+PO007-5,INV_PO007.1,07/30/2017,Paid,,3700,Trip for Mikaen
+PO008-1,INV_PO008.1,08-02-17,Paid,,15250,Computer oders invoice - 1
+PO008-1,INV_PO008.2,08/28/2017,Paid,,15000,Computer oders invoice - 2
+PO008-2,INV_PO008.1,08-02-17,Paid,,25000,Computer oders invoice - 1
+PO008-2,INV_PO008.2,08/28/2017,Paid,,23000,Computer oders invoice - 2
+PO008-2,INV_PO008.2,08/28/2017,Paid,,6950,Vehicle spare parts - Part Pay 2
+PO009-1,INV_PO009.1,08/24/2017,Paid,,22500,Security vests
+PO010-1,INV_PO010.1,08/15/2017,Paid,,17500,Electronic spare parts - Inv 1
+PO010-1,INV_PO010.1,08/15/2017,Paid,,98000,Electronic spare parts - Inv 1
+PO010-2,INV_PO010.1,09-02-17,Paid,,18200,Electronic spare parts - Inv 2
+PO010-2,INV_PO010.1,09-02-17,Paid,,28000,Electronic spare parts - Inv 2
+PO010-3,INV_PO010.1,08/15/2017,Paid,,21000,Electronic spare parts - Inv 1
+PO011-1,INV_PO011.1,09/18/2017,Paid,,3200,Stationeries
+PO011-2,INV_PO011.1,09/18/2017,Paid,,40000,Stationeries
+PO012-1,INV_PO012.1,08-07-17,Paid,,3450,Vehicle spare parts - Part Pay 1
+PO012-1,INV_PO012.2,09-04-17,Paid,,40000,Vehicle spare parts - Part Pay 2
+PO012-2,INV_PO012.1,08-07-17,Paid,,37800,Vehicle spare parts - Part Pay 1
+PO012-2,INV_PO012.2,09-04-17,Paid,,12500,Vehicle spare parts - Part Pay 2
+PO012-2,INV_PO012.3,09/29/2017,Paid,,28000,Vehicle spare parts - Part Pay 3
+PO012-3,INV_PO012.1,08-07-17,Paid,,7250,Vehicle spare parts - Part Pay 1
+PO012-4,INV_PO012.2,09-04-17,Paid,,55870,Vehicle spare parts - Part Pay 2
+PO012-5,INV_PO012.3,09/29/2017,Paid,,12600,Vehicle spare parts - Part Pay 3
+PO012-5,INV_PO012.3,09/29/2017,Paid,,43750,Vehicle spare parts - Part Pay 3
+PO013-1,INV_PO013.1,09/28/2017,Paid,,1452500,Car purchase
+PO013-2,INV_PO013.1,09/28/2017,Paid,,1974000,Car purchase
+PO013-3,INV_PO013.1,09/28/2017,Paid,,1302000,Car purchase
+PO013-4,INV_PO013.1,09/28/2017,Paid,,1091125,Car purchase
+PO014-1,INV_PO014.1,10-03-17,Paid,,5600,Invoice payment SN#001
+PO014-1,INV_PO014.3,10/27/2017,Paid,,54850,Invoice payment SN#003
+PO014-2,INV_PO014.1,10-03-17,Paid,,13500,Invoice payment SN#001
+PO014-2,INV_PO014.1,10-03-17,Paid,,17300,Invoice payment SN#001
+PO014-2,INV_PO014.2,10/15/2017,Paid,,13250,Invoice payment SN#002
+PO014-3,INV_PO014.1,10-03-17,Paid,,4275,Invoice payment SN#001
+PO014-3,INV_PO014.2,10/15/2017,Paid,,10000,Invoice payment SN#002
+PO014-3,INV_PO014.3,10/27/2017,Pending,Pointers not compatible with system,900,Invoice payment SN#003
+PO014-3,INV_PO014.4,11-05-17,Paid,,11900,Invoice payment SN#004
+PO014-3,INV_PO014.4,11-05-17,Paid,,17600,Invoice payment SN#004
+PO014-4,INV_PO014.1,10-03-17,Paid,,15200,Invoice payment SN#001
+PO014-4,INV_PO014.1,10-03-17,Paid,,7920,Invoice payment SN#001
+PO014-4,INV_PO014.2,10/15/2017,Pending,,3550,Invoice payment SN#002
+PO014-4,INV_PO014.3,10/27/2017,Paid,,15900,Invoice payment SN#003
+PO014-5,INV_PO014.1,10-03-17,Pending,,72500,Invoice payment SN#001
+PO014-5,INV_PO014.3,10/27/2017,Paid,,12125,Invoice payment SN#003
+PO014-5,INV_PO014.3,10/27/2017,Paid,,5300,Invoice payment SN#003
+PO014-5,INV_PO014.4,11-05-17,Pending,1 faulty HD to return before payment,13850,Invoice payment SN#004
